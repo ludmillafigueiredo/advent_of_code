@@ -1,2 +1,3 @@
-# advent_of_code
-Repo with solutions for the challenges proposed in https://adventofcode.com/
+# Advent of code
+
+My solutions, in [Julia](https://julialang.org/) or [Python](https://www.python.org/), to compare techniques and learn alternatives :)
